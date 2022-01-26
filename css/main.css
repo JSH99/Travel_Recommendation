@@ -1,0 +1,23 @@
+#main{
+  background-color: whitesmoke;
+  width: 85%;
+  text-align: center;
+  border-radius: 22px;
+}
+
+p{
+  font-size: 22px;
+}
+
+#mainBtn{
+  font-weight: bolder;
+  font-size: 20px;
+  width: 5em;
+  border-radius: 10px;
+  padding: 0.2em;
+  background-color: rgb(218, 238, 255);
+}
+#mainBtn:hover{
+  background-color: rgb(174, 212, 245);
+  box-shadow: lightgray 5px 5px;
+}
